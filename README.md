@@ -131,6 +131,6 @@ If you want to `close efficiently everything` like a pro just close the windows 
 - **All Teammates**
 - **Axian Group**
 - **42 Antananarivo**
-- **Telma Foundation**
+- **YAS Madagascar**
 - **NextA**
-- **MinilibX**
+- **MinilibX contributors**
